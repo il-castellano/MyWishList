@@ -14,9 +14,13 @@ Site web de notre projet :
 LANGUAGES ET LOGICIELS NECESSAIRES :
 
 -PHP
+
 -Css / Html
+
 -PhpStorm
+
 -Composer ou autres
+
 -MySql ( Si nous faisons la bdd correctement)
 
 

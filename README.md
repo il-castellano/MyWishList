@@ -13,6 +13,8 @@ Site web de notre projet :
 
 LANGUAGES ET LOGICIELS NECESSAIRES :
 
+
+
 -PHP
 
 -Css / Html
@@ -24,7 +26,10 @@ LANGUAGES ET LOGICIELS NECESSAIRES :
 -MySql ( Si nous faisons la bdd correctement)
 
 
+
 NOS DOCUMENTS:
+
+
 
 Suivi Google docs : 
 https://docs.google.com/document/d/1QTbRaVyiRoXNeZs_VOvrEJAJ0C-pA0w3kg3fmf2rVTk/edit
@@ -36,6 +41,8 @@ https://trello.com/b/Y0xcszzv/mywishlistapp
 
 
 FONCTIONNALITES: 
+
+
 (Mettre ok + nom lorsque vous réalisez la tâche et compléter le google docs)
 
 1 Afficher une liste de souhaits

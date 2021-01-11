@@ -11,7 +11,7 @@ Site web de notre projet :
 
 
 
-<u>LANGUAGES ET LOGICIELS NECESSAIRES :<\u>
+<u>LANGUAGES ET LOGICIELS NECESSAIRES :</u>
 
 
 

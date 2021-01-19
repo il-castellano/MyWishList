@@ -1,6 +1,5 @@
 <?php
 
-
 namespace wishlist\fonction;
 
 use wishlist\divers\Outils;

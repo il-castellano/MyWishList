@@ -20,23 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca98f756-a4ef-4aad-a3e6-71c895ae8281" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Modeles/Message.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modeles/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conf/ConnectionFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divers/Bouton.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divers/Formulaire.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divers/Outils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonctions/Alerte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonctions/Authentification.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonctions/CreateurItem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonctions/ParticipantItem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PageCompte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PageItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonctions/FctnCagnotte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonctions/GestionImage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/FonctionListe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sql/mywishlist-alternatif.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sql/mywishlist.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Autres/Outils.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autres/Outils.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modeles/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modeles/Item.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modeles/Liste.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modeles/Liste.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonctions/CreateurItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonctions/CreateurItem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonctions/Créateur d'item.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fonctions/FctnListe.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonctions/FctnListe.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +41,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,9 +64,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,6 +81,12 @@
     <option name="myCommands">
       <command value="run" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,7 +98,7 @@
       <updated>1610373040832</updated>
       <workItem from="1610373042534" duration="17000" />
       <workItem from="1610374213121" duration="1307000" />
-      <workItem from="1611057095634" duration="913000" />
+      <workItem from="1611057095634" duration="2744000" />
     </task>
     <servers />
   </component>
@@ -100,14 +118,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="921" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611057370434">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611063202718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="921" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611057370434" />
-    <state x="534" y="135" key="NewPhpClassDialog" timestamp="1611057986149">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611063202718" />
+    <state x="921" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611063274216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="534" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1611057986149" />
+    <state x="921" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1611063274216" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611062994599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1611062994599" />
+    <state x="534" y="135" key="NewPhpClassDialog" timestamp="1611062321419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1611062321419" />
     <state x="809" y="189" key="run.anything.popup" timestamp="1611057621896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

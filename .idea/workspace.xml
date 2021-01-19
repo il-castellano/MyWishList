@@ -20,20 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca98f756-a4ef-4aad-a3e6-71c895ae8281" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonctions/FctnCagnotte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonctions/GestionImage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/FonctionListe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Foundation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql/mywishlist-alternatif.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql/mywishlist.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/foundation-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/vendor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonctions/CreateurItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonctions/CreateurItem.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonctions/Créateur d'item.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonctions/FctnListe.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonctions/FctnListe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Foundation.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +69,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\candi\Documents\MyWishList\src\css" />
+      <recent name="C:\Users\candi\Documents\MyWishList\src\js" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="run" />
@@ -98,7 +96,7 @@
       <updated>1610373040832</updated>
       <workItem from="1610373042534" duration="17000" />
       <workItem from="1610374213121" duration="1307000" />
-      <workItem from="1611057095634" duration="2744000" />
+      <workItem from="1611057095634" duration="5550000" />
     </task>
     <servers />
   </component>

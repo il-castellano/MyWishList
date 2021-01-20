@@ -115,7 +115,9 @@ https://github.com/il-castellano/MyWishList.git
 2 Placez vous à la racine du repository avec cd MyWishList.app et installez les dépendances avec en vous placant a la racine du repository en executant la commande suivante :
 composer install
 
-3 Créez la base de données avec le fichier /MyWishList/src/schema-sql/wishlist.sql. Si des erreurs arrivent, utilisez le fichier /MyWishList/src/schema-sql/wishlist-alternatif.sql
+3 Créez la base de données avec le fichier mywishlist.sql.
+
+4 
 
 
 

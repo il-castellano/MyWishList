@@ -2,16 +2,16 @@
 
 
 
-Dépot du Projet MywishList.app:
+###Dépot du Projet MywishList.app:
 
-Sujet du Projet:
+##Sujet du Projet:
 https://arche.univ-lorraine.fr/pluginfile.php/1214317/mod_resource/content/0/sujet-wish-list.pdf
 
 
 
 
 
-<u>LANGUAGES ET LOGICIELS NECESSAIRES :</u>
+###LANGUAGES ET LOGICIELS NECESSAIRES :</u>
 
 
 
@@ -27,7 +27,7 @@ https://arche.univ-lorraine.fr/pluginfile.php/1214317/mod_resource/content/0/suj
 
 
 
-NOS DOCUMENTS:
+###NOS DOCUMENTS:
 
 
 
@@ -40,7 +40,7 @@ https://trello.com/b/Y0xcszzv/mywishlistapp
 
 
 
-FONCTIONNALITES: 
+###FONCTIONNALITES: 
 
 
 (Mettre ok + nom lorsque vous réalisez la tâche et compléter le google docs)
@@ -80,7 +80,7 @@ FONCTIONNALITES:
 16 Consulter les réservations et messages d'une de ses listes après échéance (Quentin)
 
 
-EXTENSION:
+##EXTENSION:
 
 
 17 Créer un compte ( Lenny )
@@ -107,7 +107,7 @@ EXTENSION:
 
 
 
-INSTALLATION PROJET 
+##INSTALLATION PROJET 
 
 
 

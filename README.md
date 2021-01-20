@@ -117,7 +117,13 @@ composer install
 
 3 Créez la base de données avec le fichier mywishlist.sql.
 
-4 Modifier le nom de la base de données et les identifiants de connexion dans le fichier: MyWishList/src/conf/Database.php /
+4 Créer fichier /src/conf/conf.ini ->
+
+ - driver=mysql
+ - username=user
+ - password=pass
+ - host=url_db
+ - database=dbname
 
 
 

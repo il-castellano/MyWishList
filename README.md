@@ -2,7 +2,7 @@
 
 
 
-###Dépot du Projet MywishList.app:
+#titreDépot du Projet MywishList.app:
 
 ##Sujet du Projet:
 https://arche.univ-lorraine.fr/pluginfile.php/1214317/mod_resource/content/0/sujet-wish-list.pdf
@@ -11,7 +11,7 @@ https://arche.univ-lorraine.fr/pluginfile.php/1214317/mod_resource/content/0/suj
 
 
 
-###LANGUAGES ET LOGICIELS NECESSAIRES :</u>
+#titreLANGUAGES ET LOGICIELS NECESSAIRES :</u>
 
 
 

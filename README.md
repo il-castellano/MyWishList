@@ -109,6 +109,8 @@ https://trello.com/b/Y0xcszzv/mywishlistapp
 
 # INSTALLATION PROJET 
 
+1 Clonez le repository dans votre répertoire de serveur www/ en utilisant la commande suivante :
+git clone 
 
 
 

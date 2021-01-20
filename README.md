@@ -103,9 +103,9 @@ https://trello.com/b/Y0xcszzv/mywishlistapp
 
 26 Afficher la liste des créateurs (Quentin)
 
+27 Supprimer son compte ( Lorenzo )
 
-
-
+28 Joindre des listes à son compte  ( Lorenzo )
 
 # INSTALLATION PROJET 
 
